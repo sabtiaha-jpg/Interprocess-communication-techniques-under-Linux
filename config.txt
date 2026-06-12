@@ -1,0 +1,15 @@
+grid_x=20
+grid_y=20
+grid_z=5
+population_size=50
+max_generations=200
+num_robots=3
+num_workers=5
+tournament_size=5
+mutation_rate=0.1
+elitism_percent=20
+w1=1.0
+w2=1.07
+w3=0.8
+w4=2.5
+max_actions=100
